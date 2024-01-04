@@ -12,8 +12,8 @@
  ### ⭐ GitHub Stats
 
  <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=EdAlita&count_private=true&show_icons=true&theme=default&line" alt="EdAlita Stats" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdAlita&hide_progress=true" alt="Most use Language" width="420">
+    <img src="https://github-readme-stats.vercel.app/api?username=EdAlita&count_private=true&show_icons=true&theme=codeSTACKr&line" alt="EdAlita Stats" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdAlita&hide_progress=true&theme=codeSTACKr" alt="Most use Language" width="420">
  </p>
    
 
