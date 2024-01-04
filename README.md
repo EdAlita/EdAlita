@@ -14,6 +14,8 @@
  <p> 
     <img src="https://github-readme-stats.vercel.app/api?username=EdAlita&count_private=true&show_icons=true&theme=default&line" alt="EdAlita Stats" width="420"/> 
  </p>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 ### ❤️ Connect with me:
 
