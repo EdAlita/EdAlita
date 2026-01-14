@@ -2,9 +2,9 @@
 
 ### About me
 
-- 🌱 I’m currently learning a MsC in an Erasmus Joint Master in Medical Imaging and Application with a Thesis focus on Neuroimaging. 
+- 🌱 I’m currently in my second year of my PhD at Universiat Universitat Politècnica de València (UPV) with a Thesis focus on PET Imaging. 
 - 👯 I’m looking to collaborate on projects with a health and educational focus.
-- 🧠 A neurodivergent engineer passionate about sharing my path and helping fellow neurodivergents.
+- 🧠 A neurodivergent scientists passionate about sharing my path and helping fellow neurodivergents.
 
 ### 💻 Tech Knowledge:
 
